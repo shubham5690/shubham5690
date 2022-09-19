@@ -5,7 +5,7 @@
 
 - My projects [bewakoof-clone](https://shubham5690.github.io/Individual-Project/)
 
-- 👨‍💻 All of my projects are available at [https://shubham5690.github.io/shubham.github.io/](https://shubham5690.github.io/shubham.github.io/)
+- 👨‍💻 check my portfolio [https://shubham5690.github.io/shubham.github.io/](https://shubham5690.github.io/shubham.github.io/)
 
 - 📫 How to reach me **shubhamteotia1997@gmail.com**
 
