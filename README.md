@@ -2,7 +2,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Kapil Kumar
+    I'm Shubham Choudhary
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
@@ -47,13 +47,13 @@
 
 <p align="left">
     <a href="https://shubham5690.github.io/Individual-Project/">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Myntra Clone&color=f41cb2&logo=Myntra&logoColor=FFFFFF&label=" alt="bewakoof-Clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=bewakoof-Clone&color=f41cb2&logo=Myntra&logoColor=FFFFFF&label=" alt="bewakoof-Clone" />
     </a>
     <a href="">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Plural Sight-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Plural Sight-Clone" />
     </a>
     <a href="">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=omdb_Movies App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="CricInfo-Clone website" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CricInfo-Clone&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="CricInfo-Clone website" />
     </a>
     
     
