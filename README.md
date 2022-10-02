@@ -55,6 +55,9 @@
     <a href="">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CricInfo-Clone&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="CricInfo-Clone website" />
     </a>
+    <a href="https://shubham5690.github.io/star-war-/">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Star-War&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="star-war" />
+    </a>
     
     
 </p>
