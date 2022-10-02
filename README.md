@@ -1,26 +1,103 @@
-<h1 align="center">Hi 👋, I'm Shubham Choudhary</h1>
-<h3 align="center">A java Backend Developer who loves solving problems and building projects. I am equipped with a variety of technologies and tools to help me build the best possible product.</h3>
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Kapil Kumar
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham5690&label=Profile%20views&color=0e75b6&style=flat" alt="shubham5690" /> </p>
 
-- My projects [bewakoof-clone](https://shubham5690.github.io/Individual-Project/)
 
-- 👨‍💻 check my portfolio [https://shubham5690.github.io/shubham.github.io/](https://shubham5690.github.io/shubham.github.io/)
+<!----------------------------------- About Section ------------------------------------>
 
-- 📫 How to reach me **shubhamteotia1997@gmail.com**
+<h3>
+    <i>-A java Backend Developer who loves solving problems and building projects. I am equipped with a variety of technologies and tools to help me build the best possible product. </i>
+</h3>
+<br>
+<!----------------------------------- Profile View Section ------------------------------------>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fxGPvBUcMv5Jl_Yt1sEq1O8rvkFDELmx/view?usp=sharing](https://drive.google.com/file/d/1fxGPvBUcMv5Jl_Yt1sEq1O8rvkFDELmx/view?usp=sharing)
+<!----------------------------------- Tech Stack Section ------------------------------------>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-choudhary-31b544141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-choudhary-31b544141" height="30" width="40" /></a>
+<h2><i>Tech Stack</i></h2>
+
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />  
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=Pink" alt="JSON" />    
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"alt="Webpack"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"alt=""/>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"alt=""/>   
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"alt=""/> 
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"alt=""/>
+    
+  
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham5690&show_icons=true&locale=en&layout=compact" alt="shubham5690" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham5690&show_icons=true&locale=en" alt="shubham5690" /></p>
+<!----------------------------------- Project Section ------------------------------------>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham5690&" alt="shubham5690" /></p>
+<h2><i>My top projects</i></h2>
+
+
+<p align="left">
+    <a href="https://shubham5690.github.io/Individual-Project/">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Myntra Clone&color=f41cb2&logo=Myntra&logoColor=FFFFFF&label=" alt="bewakoof-Clone" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Plural Sight-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Plural Sight-Clone" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=omdb_Movies App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="CricInfo-Clone website" />
+    </a>
+    
+    
+</p>
+<br>
+
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://linkedin.com/in/shubham-choudhary-31b544141">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=https://www.linkedin.com/in/kapilkumar7/" />
+    </a>
+    <a href="https://https://medium.com/@shubhamteotia1997">
+        <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@kapilkumar999238239" />
+    </a>
+    </a>
+    
+    
+    
+</p>
+<br>
+
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham5690&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shubham5690" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham5690&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="shubham5690" height="139" />
+   
+</p>
+<br>
+
+
+
+<!----------------------------------- Top Repository Section ------------------------------------>
+
+    
+      
+</p>
