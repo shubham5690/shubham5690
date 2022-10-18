@@ -49,7 +49,7 @@
     <a href="https://shubham5690.github.io/Individual-Project/">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=bewakoof-Clone&color=f41cb2&logo=Myntra&logoColor=FFFFFF&label=" alt="bewakoof-Clone" />
     </a>
-    <a href="">
+    <a href="https://kapilkumar7.github.io/Pluralsight-Clone/">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Plural Sight-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Plural Sight-Clone" />
     </a>
     <a href="">
