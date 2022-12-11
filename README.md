@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"alt=""/>   
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"alt=""/> 
     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"alt=""/>
+    <img src="https://img.shields.io/badge/MySQL-F2F4F9?style=for-the-badge&logo=MySQL"alt=""/>
     
   
 </p>
