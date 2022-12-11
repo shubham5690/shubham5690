@@ -43,7 +43,7 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<h2><i>My top projects</i></h2>
+<h2><i>My projects</i></h2>
 
 
 <p align="left">
