@@ -84,7 +84,7 @@
     
 </p>
 <br>
-- 👨‍💻 Want to Know about me <a href="https://shubham.github.io/">My Portfolio</a><br/>
+- 👨‍💻 Want to Know about me <a href="https://shubham5690.github.io/shubham.github.io/">My Portfolio</a><br/>
 
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
